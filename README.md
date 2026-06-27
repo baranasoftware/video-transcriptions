@@ -8,3 +8,4 @@ pip install -U openai-whisper
 ```
 * Install `ffmpeg` into your environment:
 ```
+
