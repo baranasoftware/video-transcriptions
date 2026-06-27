@@ -35,7 +35,7 @@ for file in os.listdir("data"):
 
 # Demo 
 Transcripts were generated for two samples:
-* [Free Surgical Care in Sudan: An Interview With Dr. Gina Portella](https://www.ctsnet.org/article-video/free-surgical-care-in-sudan-an-interview-with-dr-gina-portella/) - [Transcript file](./data/FreeSurgicalCareinSudanAnInterviewWithDrGinaPortella_1080p.mp4.srt).
-* [Safe Cerebral Protection: How to Handle Dangerous Sternal Reentry](https://www.ctsnet.org/article-video/safe-cerebral-protection-how-handle-dangerous-sternal-reentry/) - [Transcript file](./data/SafeCerebralProtectionDoublePatchTechniqueforAorticandMitralValveReplacement_1080p.mp4.srt)
+* [Free Surgical Care in Sudan: An Interview With Dr. Gina Portella](https://www.ctsnet.org/article-video/free-surgical-care-in-sudan-an-interview-with-dr-gina-portella/) - [Whisper Transcript file](./data/FreeSurgicalCareinSudanAnInterviewWithDrGinaPortella_1080p.mp4.srt).
+* [Safe Cerebral Protection: How to Handle Dangerous Sternal Reentry](https://www.ctsnet.org/article-video/safe-cerebral-protection-how-handle-dangerous-sternal-reentry/) - [Whisper Transcript file](./data/SafeCerebralProtectionDoublePatchTechniqueforAorticandMitralValveReplacement_1080p.mp4.srt).
 
 
